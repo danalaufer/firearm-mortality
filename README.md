@@ -15,7 +15,7 @@ trends in political party.
 <p>&nbsp;</p>
 My second goal is to analyze the relationship between deaths from firearms and firearm sales. To do this I construct a 
 simple linear regression model, pictured below. 
-
+<p>&nbsp;</p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/78238322/123457632-f6f61600-d598-11eb-81cd-2eaa2fb33737.png" />
 </p>
