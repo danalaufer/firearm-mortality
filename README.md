@@ -1,6 +1,7 @@
-## Firearm Background Checks and Mortality Rates
+## Firearm Sales and Mortality Rates
 In this study, I address the problems of gun violence and political polarization in the United
-States using datasets on firearm background checks and mortality rates. My first goal is to determine
+States using datasets on firearm background checks, which I use to approximate firearm sales,
+and mortality rates. My first goal is to determine
 whether there is a relationship between a state's usual political leaning and its firearm sales. In 
 order to do this, I reduce the dimensions of the firearm sales dataset by performing principal component
 analysis and produce an interactive graph plotting each state according to its first and second principal component. 
@@ -20,5 +21,7 @@ simple linear regression model, pictured below.
 </p>
 From this regression model I conclude that there is a positive linear relationship between firearm sales and deaths by 
 firearms in the United States. 
+<p>&nbsp;</p>
+For a more in depth analysis of this project, see the firearm analysis PDF. 
 
 
