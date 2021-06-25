@@ -12,7 +12,7 @@ A still of this graph is pictured below.
 Based on this graph, I conclude that while states with higher firearmsales tend to be Republican and states with 
 lower firearm sales tend to be Democratic, the vast majority of states reside somewhere in the middle with no clear 
 trends in political party. 
-
+<p>&nbsp;</p>
 My second goal is to analyze the relationship between deaths from firearms and firearm sales. To do this I construct a 
 simple linear regression model, pictured below. 
 
